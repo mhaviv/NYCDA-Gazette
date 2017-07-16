@@ -1,0 +1,28 @@
+body {
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+	position: relative;
+	background-image: url("images/newspaper-background.jpg"); 
+}
+
+/*header spacing*/
+.h-format {
+	padding-top: 65px;
+}
+
+/*display read more on new line*/
+.new-line {
+	display: block;
+	font-size: 18px;
+	font-weight: normal;
+	font-style: italic;
+	color: blue;
+	padding-top: 15px;
+}
+
+/*format size of photos*/
+.format {
+	overflow: hidden;
+	max-width: 500px;
+	max-height: 500px; 
+}
